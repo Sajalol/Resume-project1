@@ -152,7 +152,7 @@ header {
 
 .menuitem a i {
     padding-top: 22px;
-    display: block;
+    display:inline-block;
     color: #fafafa;
     font-size: 26px;
 
@@ -395,3 +395,4 @@ button[type="submit"] {
     }
 
 }
+div#map {min-height: 360px;}
